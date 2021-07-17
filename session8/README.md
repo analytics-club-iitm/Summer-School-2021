@@ -9,6 +9,3 @@ Week 3 Session 2
 * Session Recording - Will be updated
 * Quiz - Will be updated  
 
-### Contact
-
-* Archish - 84383 22870
