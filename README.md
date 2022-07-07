@@ -2,6 +2,8 @@
 This repository contains all the slides/notes used during the summer school conducted at IIT Madras. <br>
 The sessions were jointly conducted by Analytics Club, IITM and CVI. 
 
+Link to the Youtube Playlist: [Summer School 2021](https://www.youtube.com/playlist?list=PLhHkiL2SJ7XfFW2PfcgEQFcG9iwh9mrok)
+
 
 | Session No.| Topic | Link to Notes | Recording Link |
 |------------|--------|--------------|----------------|
